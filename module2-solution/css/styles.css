@@ -9,6 +9,7 @@ h1 {
     color: black;
     font-size: 175%;
     text-align: center;
+    margin: 20px;
 }
 
 section {
@@ -20,6 +21,7 @@ section {
 
 h2 {
     float: right;
+    position:absolute;
     border: 2px solid black;
     color: black;
     font-size: 150%;
