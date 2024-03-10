@@ -29,10 +29,14 @@ h2 {
 }
 
 section p {
-    width: 90%;
+    width: 100%;
+    padding: 25px;
+    font-size: 175%;
     position: relative;
     margin-right: auto;
     margin-left: auto;
+
+
 }
 
 #chicken {
